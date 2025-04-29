@@ -8,6 +8,10 @@ I am learning DSA from this repository.
 
 1. create a folder in your local system
 
+  Then use git init command to initialize the folder in git hub
+
+   example: ----> git init 
+
 2. Then use git add command to add the folder in git hub
 
 3. For example use create a Folder name "Variaables and Data types" and use git add command to add the folder in git hub
@@ -24,5 +28,7 @@ I am learning DSA from this repository.
 
 5. For example use git commit -m "added folder" command to commit the changes
 
-6. Then use git push command to push the changes to git hub
+6. Then use (git push origin main) command to push the changes to git hub
+
+   example: ----> git push origin main
 
