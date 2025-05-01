@@ -23,7 +23,20 @@ import java.util.*;
 
 // Q2 - finish the following code so that it prints you have a fever if your temperature is above 100 and otherwise prints you don't have a fever
 
-// 
+// public class ConditionalStatements{
+//     public static void main(String[] args){
+//         Scanner sc = new Scanner (System.in);
+//         System.out.print("Enter the body temperature :- ");
+//         int temp = sc.nextInt();
+
+//         if(temp >= 100){
+//             System.out.println("You have a fever");
+//         } else {
+//             System.out.println("You don't have a fever");
+//         }
+//     }
+// }
+
 
 
 // Q3 - leap year 
