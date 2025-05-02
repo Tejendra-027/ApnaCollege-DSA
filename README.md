@@ -32,3 +32,26 @@ I am learning DSA from this repository.
 
    example: ----> git push origin main
 
+
+
+   # commands
+
+   1 git status
+
+   2 git add .    
+
+   3 git commit -m "add comment"  
+
+   4 git push origin main    
+
+   5 cd .\ApnaCollege-DSA\ (change directory)
+
+   6 cd .. (come back from directory)
+
+   7 java .\ReverseTheGivenNumber.java (this command is use for run and compile the code)
+
+   8 ls -Force  (to check hidden file)
+
+   9 Remove-Item -Recurse -Force ".\Operators in java\.git"    (to remove .git )
+
+   10 clear
