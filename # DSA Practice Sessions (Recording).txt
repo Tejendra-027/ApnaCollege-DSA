@@ -1,0 +1,7 @@
+# DSA Practice Sessions (Recording)
+
+- Practice Session 1  (flow charts)
+- Sunday live Session (variable and data type)
+- Practice Session 2  (variable and data type)
+- Practice Session 3  (operators)
+- Practice Session 4  (conditional statements)
