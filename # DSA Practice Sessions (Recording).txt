@@ -5,3 +5,5 @@
 - Practice Session 2  (variable and data type)
 - Practice Session 3  (operators)
 - Practice Session 4  (conditional statements)
+- Sunday live Session (loop)
+- Practice Session 5  (Condition statements and loop)
