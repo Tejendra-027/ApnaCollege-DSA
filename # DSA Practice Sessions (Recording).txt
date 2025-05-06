@@ -7,3 +7,4 @@
 - Practice Session 4  (conditional statements)
 - Sunday live Session (loop)
 - Practice Session 5  (Condition statements and loop)
+- Practice Session 6  (Pattern (part - 1)) - Nested loop 
