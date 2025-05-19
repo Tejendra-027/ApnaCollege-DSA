@@ -237,25 +237,25 @@
 
 // --- Method - 3
 
-public class BasicPattern {
+// public class BasicPattern {
 
-    public static void TLT(int n){
-        for(int i = 1 ; i <= n; i++){
-            for(int j = 1 ; j <= n; j++){
-                if(i+j >= n+1){
-                    System.out.print("*");
-                } else{
-                    System.out.print(" ");
-                }
-            }
-            System.out.println();
-        }
-    }
+//     public static void TLT(int n){
+//         for(int i = 1 ; i <= n; i++){
+//             for(int j = 1 ; j <= n; j++){
+//                 if(i+j >= n+1){
+//                     System.out.print("*");
+//                 } else{
+//                     System.out.print(" ");
+//                 }
+//             }
+//             System.out.println();
+//         }
+//     }
 
-    public static void main(String[] args) {
-        TLT(5);
-    }
-}
+//     public static void main(String[] args) {
+//         TLT(5);
+//     }
+// }
 
 
 
@@ -309,23 +309,23 @@ public class BasicPattern {
 
 // Q - X pattern
 
-// public class BasicPattern {
+public class BasicPattern {
 
-//     public static void TRT(int n) {
-//         for (int i = 1; i <= n; i++) {
-//             for (int j = 1; j <= n; j++) {
-//                 // Print * at the diagonals
-//                 if (j == i || j == n - i + 1) {
-//                     System.out.print("*");
-//                 } else {
-//                     System.out.print(" ");
-//                 }
-//             }
-//             System.out.println(); // Move to next line after each row
-//         }
-//     }
+    public static void TRT(int n) {
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                
+                if (i == j || i + j == n + 1) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+            System.out.println(); 
+        }
+    }
 
-//     public static void main(String[] args) {
-//         TRT(5);  // You can change the size here
-//     }
-// }
+    public static void main(String[] args) {
+        TRT(5);  
+    }
+}

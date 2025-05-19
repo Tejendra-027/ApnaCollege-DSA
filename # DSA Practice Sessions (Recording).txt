@@ -10,4 +10,5 @@
 - Practice Session 6  (Pattern (part - 1)) - Nested loop 
 - practice Session 7  (Function)
 - Sunday live Session (Patterns 2)
-- Practice Session    (basic Pattern)
+- Practice Session 8  (basic Pattern)
+- Practice Session 9  (Array Part - 1 )
