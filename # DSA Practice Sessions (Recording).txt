@@ -11,4 +11,5 @@
 - practice Session 7  (Function)
 - Sunday live Session (Patterns 2)
 - Practice Session 8  (basic Pattern)
-- Practice Session 9  (Array Part - 1 )
+- Practice Session 9  (Array Part - 1)
+- Practice Session 10 (Array Part - 2)
